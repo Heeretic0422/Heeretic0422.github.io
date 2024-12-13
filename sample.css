@@ -8,4 +8,49 @@ html{
 }
 a{
   color:#dea918;
+  font-size:20px;
+}
+#tyuuou1{
+  text-align:center;
+}
+#twitter{
+  position:relative;
+  right:250px;
+}
+#pixiv{
+  position:relative;
+  left:6px;
+}
+#youtube{
+  position:relative;
+  left:250px;
+}
+#tyuuou2{
+  text-align:center;
+}
+#yu-tyura{
+  position:relative;
+  right:204px;
+}
+#cookieclicker{
+  position:relative;
+  left:4px;
+}
+#crocodile{
+  position:relative;
+  left:200px;
+}
+#tyuuou3{
+  text-align:center;
+}
+#nasyo{
+  position:relative;
+  right:249px;
+}
+#redbull{
+  position:relative;
+}
+#github{
+  position:relative;
+  left:238px;
 }

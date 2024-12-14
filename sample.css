@@ -49,8 +49,9 @@ a{
 }
 #redbull{
   position:relative;
+  left:1px;
 }
 #github{
   position:relative;
-  left:238px;
+  left:240px;
 }

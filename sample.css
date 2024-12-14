@@ -4,10 +4,7 @@
   width:1390px;
   height:700px;
   text-align:center;
-  body {
-  border-style:none;
-   background-position:left top;
-}
+  background-position:0 0;
 h1{
   font-size:110px;
   text-align:center;

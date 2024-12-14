@@ -1,7 +1,8 @@
 .cookie-img{
   background-image:url(cookie-img.jpg);
   background-repeat:no repeat;
-  width:1500px;
+  background-size:cover;
+  width:1400px;
   height:744px;
 }
 h1{

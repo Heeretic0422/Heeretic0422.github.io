@@ -2,12 +2,13 @@
   background-image:url(cookie-img.jpg);
   background-repeat:no repeat;
   background-size:cover;
-  width:1400px;
+  width:1390px;
   height:700px;
   text-align:center;
   body {
   margin-top: 0;
   margin-left:0;
+  border-style:none;
 }
 h1{
   font-size:110px;

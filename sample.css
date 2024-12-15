@@ -6,7 +6,7 @@
   background-image:url(cookie-img.jpg);
   background-repeat:no repeat;
   background-size:cover;
-  width:1300px;
+  width:1366px;
   height:598px;
   border-style:none;
   text-align:center;
@@ -47,13 +47,13 @@ a{
   position:relative;
   right:67px;
   top:250px;
-  z-index:100;
+  z-index:120;
 }
 #crocodile{
   position:relative;
   left:317px;
   top:40px;
-  z-index:100;
+  z-index:110;
 }
 #nasyo{
   position:relative;
@@ -65,7 +65,7 @@ a{
   position:relative;
   right:395px;
   bottom:25px;
-  z-index:100;
+  z-index:110;
 }
 #github{
   position:relative;

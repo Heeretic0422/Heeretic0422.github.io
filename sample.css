@@ -27,8 +27,8 @@ a{
 }
 #pixiv{
   position:relative;
-  right:63px;
-  top:153px;
+ right:403px;
+  top:183px;
 }
 #youtube{
   position:relative;
@@ -47,16 +47,6 @@ a{
   top:251px;
 }
 #crocodile{
-  position:relative;
-  left:317px;
-  top:42px;
-}
-#nasyo{
-  position:relative;
-  right:403px;
-  top:183px;
-}
-#redbull{
   position:relative;
   right:395px;
   bottom:24px;

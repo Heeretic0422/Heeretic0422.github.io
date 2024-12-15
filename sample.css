@@ -28,7 +28,7 @@ a{
 #pixiv{
   position:relative;
   right:63px;
-  top:154px;
+  top:153px;
 }
 #youtube{
   position:relative;
@@ -39,11 +39,12 @@ a{
   position:relative;
   left:494px;
   top:105px;
+  z-index:10;
 }
 #cookieclicker{
   position:relative;
   right:67px;
-  top:250px;
+  top:251px;
 }
 #crocodile{
   position:relative;
@@ -58,7 +59,7 @@ a{
 #redbull{
   position:relative;
   right:395px;
-  bottom:25px;
+  bottom:24px;
 }
 #github{
   position:relative;

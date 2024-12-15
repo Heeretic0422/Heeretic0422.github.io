@@ -42,17 +42,19 @@ a{
   position:relative;
   left:494px;
   top:105px;
+  z-index:10;
 }
 #cookieclicker{
   position:relative;
   right:67px;
   top:250px;
+  z-index:10;
 }
 #crocodile{
   position:relative;
   left:317px;
   top:40px;
-  z-index:1;
+  z-index:10;
 }
 #nasyo{
   position:relative;
@@ -63,6 +65,7 @@ a{
   position:relative;
   right:395px;
   bottom:25px;
+  z-index:10;
 }
 #github{
   position:relative;

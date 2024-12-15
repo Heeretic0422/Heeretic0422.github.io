@@ -48,13 +48,13 @@ a{
   position:relative;
   right:67px;
   top:250px;
-  z-index:10;
+  z-index:100;
 }
 #crocodile{
   position:relative;
   left:317px;
   top:40px;
-  z-index:10;
+  z-index:100;
 }
 #nasyo{
   position:relative;
@@ -66,7 +66,7 @@ a{
   position:relative;
   right:395px;
   bottom:25px;
-  z-index:10;
+  z-index:100;
 }
 #github{
   position:relative;

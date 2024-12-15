@@ -36,12 +36,12 @@ a{
 #youtube{
   position:relative;
   left:492px;
-  top:75px;
+  top:85px;
 }
 #yu-tyura{
   position:relative;
   left:492px;
-  top:95px;
+  top:105px;
 }
 #cookieclicker{
   position:relative;
@@ -50,22 +50,22 @@ a{
 }
 #crocodile{
   position:relative;
-  left:310px;
+  left:317px;
   top:40px;
   z-index:1;
 }
 #nasyo{
   position:relative;
-  right:377px;
-  top:156px;
+  right:397px;
+  top:176px;
 }
 #redbull{
   position:relative;
-  right:385px;
-  bottom:15px;
+  right:395px;
+  bottom:25px;
 }
 #github{
   position:relative;
-  left:370px;
-  top:63px;
+  left:390px;
+  top:76px;
 }

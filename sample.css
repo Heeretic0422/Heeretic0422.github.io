@@ -31,8 +31,8 @@ a{
 }
 #pixiv{
   position:relative;
-  left:403px;
-  top:334px;
+  left:300px;
+  top:200px;
   z-index:10;
   width:100px;
 }

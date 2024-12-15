@@ -25,8 +25,8 @@ a{
 }
 #twitter{
   position:relative;
-  left:590px;
-  top:170px;
+  left:630px;
+  top:190px;
   width:100px;
 }
 #pixiv{
@@ -63,7 +63,7 @@ a{
 }
 #github{
   position:relative;
-  left:220px;
-  bottom:100px;
+  left:1000px;
+  bottom:250px;
     width:100px;
 }

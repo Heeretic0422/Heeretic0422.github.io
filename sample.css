@@ -18,19 +18,17 @@ h1{
 }
 a{
   color:#3d291a;
-  font-size:20px;
+  font-size:15px;
 }
 #twitter{
   position:relative;
   left:41px;
   top:216px;
-  z-index:1;
 }
 #pixiv{
   position:relative;
   right:63px;
   top:154px;
-  z-index:110;
 }
 #youtube{
   position:relative;
@@ -41,31 +39,26 @@ a{
   position:relative;
   left:494px;
   top:105px;
-  z-index:110;
 }
 #cookieclicker{
   position:relative;
   right:67px;
   top:250px;
-  z-index:120;
 }
 #crocodile{
   position:relative;
   left:317px;
   top:40px;
-  z-index:110;
 }
 #nasyo{
   position:relative;
   right:403px;
   top:183px;
-  z-index:100;
 }
 #redbull{
   position:relative;
   right:395px;
   bottom:25px;
-  z-index:110;
 }
 #github{
   position:relative;

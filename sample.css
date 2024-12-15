@@ -26,13 +26,13 @@ a{
 #twitter{
   position:relative;
   left:41px;
-  top:216px;
+  top:570px;
   width:100px;
 }
 #pixiv{
   position:relative;
   left:530px;
-  top:190px;
+  top:140px;
   z-index:10;
   width:100px;
 }
@@ -51,7 +51,7 @@ a{
 }
 #cookieclicker{
   position:relative;
-  right:67px;
+  left:530px;
   top:238px;
     width:100px;
 }
@@ -64,6 +64,6 @@ a{
 #github{
   position:relative;
   left:220px;
-  top:40px;
+  top:10px;
     width:100px;
 }

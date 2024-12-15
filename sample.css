@@ -31,20 +31,20 @@ a{
 }
 #pixiv{
   position:relative;
-  left:550px;
+  left:567px;
   top:160px;
   z-index:10;
   width:100px;
 }
 #youtube{
   position:relative;
-  left:1000px;
+  left:1400px;
   top:95px;
   width:100px;
 }
 #yu-tyura{
   position:relative;
-  left:1002px;
+  left:1402px;
   top:105px;
   z-index:10;
     width:100px;
@@ -57,13 +57,13 @@ a{
 }
 #crocodile{
   position:relative;
-  leftt:950px;
+  left:950px;
   top:30px;
     width:140px;
 }
 #github{
   position:relative;
   left:220px;
-  bottom:300px;
+  bottom:400px;
     width:100px;
 }

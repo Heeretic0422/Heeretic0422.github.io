@@ -25,14 +25,13 @@ a{
 }
 #twitter{
   position:relative;
-    text-align:center;
   left:41px;
   top:216px;
   width:100px;
 }
 #pixiv{
   position:relative;
- right:403px;
+  left:403px;
   top:334px;
   z-index:10;
   width:100px;

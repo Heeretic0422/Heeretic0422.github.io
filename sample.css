@@ -10,7 +10,7 @@
   height:598px;
   border-style:none;
   text-align:center;
-  z-index:-1;
+  pointer-events:none;
   }
 h1{
   font-size:133px;

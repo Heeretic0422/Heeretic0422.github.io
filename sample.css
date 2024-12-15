@@ -12,7 +12,7 @@
   border-style:none;
   }
 h1{
-  font-size:110px;
+  font-size:125px;
   text-align:center;
   color:#000000;
 }
@@ -24,6 +24,7 @@ a{
 #twitter{
   position:relative;
   right:250px;
+  top:300px;
 }
 #pixiv{
   position:relative;

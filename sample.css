@@ -27,43 +27,43 @@ a{
   position:relative;
   left:41px;
   top:216px;
-  width:50px;
+  width:100px;
 }
 #pixiv{
   position:relative;
  right:403px;
   top:334px;
   z-index:10;
-  width:50px;
+  width:100px;
 }
 #youtube{
   position:relative;
   left:492px;
   top:95px;
-  width:50px;
+  width:100px;
 }
 #yu-tyura{
   position:relative;
   left:494px;
   top:105px;
   z-index:10;
-    width:50px;
+    width:100px;
 }
 #cookieclicker{
   position:relative;
   right:67px;
   top:238px;
-    width:50px;
+    width:100px;
 }
 #crocodile{
   position:relative;
   right:395px;
   top:30px;
-    width:50px;
+    width:100px;
 }
 #github{
   position:relative;
   left:406px;
   top:140px;
-    width:50px;
+    width:100px;
 }

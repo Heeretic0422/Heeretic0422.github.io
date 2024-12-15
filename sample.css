@@ -31,7 +31,7 @@ a{
   position:relative;
   right:63px;
   top:154px;
-  z-index:100;
+  z-index:110;
 }
 #youtube{
   position:relative;
@@ -42,7 +42,7 @@ a{
   position:relative;
   left:494px;
   top:105px;
-  z-index:100;
+  z-index:110;
 }
 #cookieclicker{
   position:relative;

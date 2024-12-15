@@ -28,7 +28,7 @@ a{
 #pixiv{
   position:relative;
  right:403px;
-  top:183px;
+  top:230px;
 }
 #youtube{
   position:relative;
@@ -49,10 +49,10 @@ a{
 #crocodile{
   position:relative;
   right:395px;
-  bottom:24px;
+  bottom:1px;
 }
 #github{
   position:relative;
   left:406px;
-  top:79px;
+  top:120px;
 }

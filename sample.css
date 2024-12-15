@@ -25,8 +25,8 @@ a{
 }
 #twitter{
   position:relative;
-  left:41px;
-  top:570px;
+  left:590px;
+  top:170px;
   width:100px;
 }
 #pixiv{
@@ -38,21 +38,21 @@ a{
 }
 #youtube{
   position:relative;
-  left:1400px;
+  left:1100px;
   top:95px;
   width:100px;
 }
 #yu-tyura{
   position:relative;
-  left:1402px;
+  left:1102px;
   top:105px;
   z-index:10;
     width:100px;
 }
 #cookieclicker{
   position:relative;
-  left:550px;
-  top:238px;
+  left:540px;
+  top:242px;
     width:200px;
 }
 #crocodile{
@@ -64,6 +64,6 @@ a{
 #github{
   position:relative;
   left:220px;
-  bottom:400px;
+  bottom:100px;
     width:100px;
 }

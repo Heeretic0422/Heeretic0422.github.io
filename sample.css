@@ -31,8 +31,8 @@ a{
 }
 #pixiv{
   position:relative;
-  left:450px;
-  top:180px;
+  left:530px;
+  top:190px;
   z-index:10;
   width:100px;
 }
@@ -64,6 +64,6 @@ a{
 #github{
   position:relative;
   left:220px;
-  top:70px;
+  top:40px;
     width:100px;
 }

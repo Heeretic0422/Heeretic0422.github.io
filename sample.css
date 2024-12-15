@@ -31,7 +31,7 @@ a{
   position:relative;
   right:63px;
   top:154px;
-  z-index:10;
+  z-index:100;
 }
 #youtube{
   position:relative;
@@ -42,7 +42,7 @@ a{
   position:relative;
   left:494px;
   top:105px;
-  z-index:10;
+  z-index:100;
 }
 #cookieclicker{
   position:relative;
@@ -60,6 +60,7 @@ a{
   position:relative;
   right:403px;
   top:183px;
+  z-index:100;
 }
 #redbull{
   position:relative;

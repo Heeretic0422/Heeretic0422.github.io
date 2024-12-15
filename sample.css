@@ -25,31 +25,34 @@ a{
   position:relative;
   left:41px;
   top:216px;
+  z-index:1;
 }
 #pixiv{
   position:relative;
   right:63px;
   top:154px;
+  z-index:1;
 }
 #youtube{
   position:relative;
-  left:500px;
-  top:150;
+  left:404px;
+  top:150px;
 }
 #yu-tyura{
   position:relative;
-  left:404px;
-  top:40;
+  left:492px;
+  top:40px;
 }
 #cookieclicker{
   position:relative;
   right:20px;
-  top:150;
+  top:150px;
 }
 #crocodile{
   position:relative;
-  left:290px;
+  left:300px;
   top:40px;
+  z-index:1;
 }
 #nasyo{
   position:relative;

@@ -31,8 +31,8 @@ a{
 }
 #pixiv{
   position:relative;
-  left:530px;
-  top:140px;
+  left:550px;
+  top:160px;
   z-index:10;
   width:100px;
 }
@@ -51,19 +51,19 @@ a{
 }
 #cookieclicker{
   position:relative;
-  left:530px;
+  left:550px;
   top:238px;
-    width:100px;
+    width:200px;
 }
 #crocodile{
   position:relative;
-  right:395px;
+  leftt:950px;
   top:30px;
-    width:100px;
+    width:140px;
 }
 #github{
   position:relative;
   left:220px;
-  top:10px;
+  bottom:300px;
     width:100px;
 }

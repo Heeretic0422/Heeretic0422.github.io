@@ -66,5 +66,7 @@ a{
 }
 #botan{
   position:relative;
+  left:100px;
+  bottom:100px;
   width:50px;
 }
